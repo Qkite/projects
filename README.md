@@ -1,4 +1,4 @@
-# toy projects
+# toy project
 
 ## 화장품 성분 자동 검색
 
